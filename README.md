@@ -28,3 +28,8 @@ Usage: `2_rmpath_tool.py [-h] path`
 Script for download and set 'AllowedIPs' option in Wireguard config  
 List IPs download from https://stat.ripe.net/ by specified country code  
 Usage: `3_make_wgconf.py <country code (ie. RU)> <WG config file (*.conf)>`
+
+`4_algorithms.py`
+
+Binary Search Algorithm  
+Quicksort Algorithm
